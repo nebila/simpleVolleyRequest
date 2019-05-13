@@ -24,7 +24,7 @@ public class SimpleVolleyRequest {
 
     public String error;
 
-    private String sResponse;
+    public String sResponse;
     private JSONObject joResponse;
     private JSONArray jaResponse;
 
